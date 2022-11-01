@@ -1,0 +1,17 @@
+div {
+    background-image: url(Capture.PNG);
+    width: 75vw;
+    height: 50vh;
+    background-size: 70px;
+    padding: 50px;
+
+}
+h1{
+    background-color: white;
+    width: 250px;
+    height: 90px;
+    font-size: 5rem;
+    color: red;
+    margin: 0 auto;
+    text-align: center;
+}
